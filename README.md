@@ -29,9 +29,7 @@ While the program may be used to assess the security of roblox executor, it shou
     Wave is a Roblox Executor that injects script that takes advantage of Roblox weak anticheat Byfron.
     <br/>
     <br/>
-    <a href="https://github.com/CheatsHelp/Wave-Executor-Roblox/releases/tag/wave-executor-roblox">Download</a>
-    .
-    <a href="https://github.com/CheatsHelp/Wave-Executor-Roblox">Site</a>
+  
   </p>
 </p>
 
@@ -57,7 +55,7 @@ While the program may be used to assess the security of roblox executor, it shou
 
 To install Wave, follow these steps:
 
-1. [Download the Latest Version](https://github.com/CheatsHelp/Wave-Executor-Roblox/releases/tag/wave-executor-roblox) page and download the latest version of Wave.
+1. Download the Latest Version page and download the latest version of Wave.
 2. **Run Wave:** Run `Wave.exe`
 3. **Launch Roblox:** Launch Roblox & Enjoy Wave!
 
